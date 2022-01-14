@@ -1,0 +1,2 @@
+#Centralized Cloud Configuration =>  9296 =  port for cloud config server - Github repository - for centralized configuration  spring:   cloud:    config:      enabled: true      uri: http://localhost:9296     
+
